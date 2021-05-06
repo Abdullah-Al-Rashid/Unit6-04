@@ -1,9 +1,9 @@
-// Giving all the variables the value of zero so that user can input his own 
+// Giving all the variables the value of zero so that user can input his own
 let basea = 0
 let baseb = 0
 let height = 0
 let number = 0
-// Event listener for the "Find Out" button so that when the user clicks, he or she recieves an answer 
+// Event listener for the "Find Out" button so that when the user clicks, he or she recieves an answer
 document.getElementById('calculate').addEventListener('click', findOut)
 // functions for how the number inputed by the user should be calculated
 function findOut () {
